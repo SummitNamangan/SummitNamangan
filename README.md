@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# 👋 Assalomu alaykum! I'm Fozilxon Abdusalamov
+# 👋 Assalomu alaykum! I'm SUMMIT NAMANGAN
 
 ### 💻 Frontend Developer | JavaScript Enthusiast | React Lover
 
@@ -8,7 +8,8 @@
 - 🧠 I’m mastering **React**, **Redux**, and digging deeper into **JavaScript** ecosystem.
 - 🌱 Constantly learning new technologies and improving problem-solving skills.
 - 💬 Ask me about anything related to `HTML`, `CSS`, `JavaScript`, `React`, or `Redux`.
-- 📫 Email me at: **fozilxonabdusalamov2006@gmail.com**
+- 📫 Email me at: **kampyutersummit@gmail.com
+**
 - 🧩 Fun fact: I love turning complex problems into simple, beautiful, and intuitive UI.
 
 ---
@@ -56,7 +57,7 @@
   <a href="mailto:fozilxonabdusalamov2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/fozilxon25x" target="_blank">
+  <a href="https://t.me/summit_aloqa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
